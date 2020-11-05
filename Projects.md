@@ -1,12 +1,11 @@
+### Room Cleaning Robot Based on Deep Neural Network
 
----
-title: Projects 
-layout: page
----
+- Use Deep Neural Network and HSV colour detection into the Computer Vision system and achieved real-time Object detection and classification.
 
-- Room Cleaning Robot Based on Deep Neural Network and Robot Operating System
+- Achieved the design of distributed computing of the robot control system based on Robot Operating System, desiend the robot manipulation system includes the control and motion planning of the robot arm, gripper and mobile base.
 
-
+#### Simulation
 [![Watch the video](/images/sim1.png)](https://youtu.be/Bs99ExJiiw8)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_5jTu8fjrgA)
+#### Robot demonstration
+[![Watch the video](/images/real1.png)](https://youtu.be/_5jTu8fjrgA)
 
