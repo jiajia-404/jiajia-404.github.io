@@ -3,10 +3,8 @@ title:
 layout: page
 author_profile: true
 ---
-
+![profile](/images/profile.png)
 <div style="margin: auto; width: 40%">
-  <img src="https://github.com/jiajia-404/jiajia-404.github.io.git/images/Picar.jpeg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
-
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
     Jiamu Jiang
   </p>
