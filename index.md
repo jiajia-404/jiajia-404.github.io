@@ -3,7 +3,7 @@ title:
 layout: page
 author_profile: true
 ---
-![profile](/images/profile.png)
+![profile](/images/profile.png?style=centerme)
 <div style="margin: auto; width: 40%">
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
     Jiamu Jiang
