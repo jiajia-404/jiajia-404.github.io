@@ -28,13 +28,16 @@ layout: page
 ---
 ### [A Raspberry Pi and TensorFlow powered self-driving robotic car](https://github.com/jiajia-404/Self_driving_PiCar)
 
-A robotic car who is able to navigate the lane autonomously and detect various traffic signs and pedestrians on the road.
+A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
+
 ![Picar](/images/Picar.jpeg)
 
 ---
 ### [A cute Pusheen cat chatbot based on Andriod](https://github.com/jiajia-404/Mr.Meow)
 
-A cute chatbot based on Java and Android Studio, allows both voice and text input.
+- A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
+
+- Applied Simsim API, Google Firebase API and Andriod Speech to relize the voice and text conversation.
 ![Chatbot](/images/chat_page.jpg)
 
 

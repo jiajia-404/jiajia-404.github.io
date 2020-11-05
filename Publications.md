@@ -1,10 +1,9 @@
-
 ---
 title: Publications
 layout: page
 ---
 
-### [Electro-physiology models of cells with spherical geometry with non-conducting centre](https://github.com/vanrossumlab/jiamu_20)
+#### [Electro-physiology models of cells with spherical geometry with non-conducting centre](https://github.com/vanrossumlab/jiamu_20) (in press)
 
 Neurons and other cells use electrical signals for intra- and inter cellular communications. Accurate mathematical models have been developed to describe the spatial-temporal dynamics of the voltage in response to input current. Best known is the cable equation, which describes voltage propagation along the length of a passive cable in response to current injection. However, this model is not appropriate for cells with geometries other than the cylinder. Here we study the flow of electrical currents in cells with a spherical geometry in which only a thin shell close to the surface conducts. Such geometries arise for instance in white adipocytes (fat cells), which are cells constituted by an insulating lipid droplet surrounded by a thin conductive cytoplasm shell, and might also be relevant for some types of spherically shaped peripheral neurons. 
 
