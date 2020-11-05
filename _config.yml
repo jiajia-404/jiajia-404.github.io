@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Jiamu Jiang" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo:  # Site logo, also used in jekyll-seo-tag
 description: "Computational Neuroscience" # Site description and default description, also used in jekyll-seo-tag
 url: "https://github.com/jiajia-404" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -112,6 +112,8 @@ navigation_header:
   url: /
 - title: CV
   url: /CV/
+  title: Projects
+  url: /Projects/
 - title: Publications
   url: /Publications/
 - 
