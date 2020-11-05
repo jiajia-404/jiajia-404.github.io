@@ -3,8 +3,7 @@ title:
 layout: page
 author_profile: true
 ---
-
-[<img src="image.png" width="50"/>](/images/profile.png)
+![profile](/images/profile.png)
 <div style="margin: auto; width: 40%">
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
     Jiamu Jiang
