@@ -114,8 +114,8 @@ navigation_header:
   url: /CV/
 - title: Projects
   url: /Projects/
-#- title: Publications
-#  url: /Publications/
+- title: Publications
+  url: /Publications/
 - 
 
 navigation_footer:
