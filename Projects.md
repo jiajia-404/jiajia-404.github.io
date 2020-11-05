@@ -24,3 +24,4 @@ layout: page
 
 - Analyzed the stability and convergency of the models, compared the resulting accuracy and computational cost of the FDM models against the Monte Carlo model.
 
+![Black-Scholes equation](/images/bs.png)
