@@ -43,30 +43,6 @@ jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @repl
 twitter:
   username:  # jekyll-seo-tag > Owners twitter username
 author:
-  name             : "Adam Gajtkowki"
-  avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Financial Times"
-  email            : "adam.gajtkowski@icloud.com"
-  links:
-    - label: "Email"
-      icon: "adam.gajtkowski@icloud.com"
-      # url: mailto:adam.gajtkowski@icloud.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "adam9601"
-      # url: "https://github.com/adam9601"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"  
 
 social: # jekyll-seo-tag > social overrides
   name: Jiamu Jiang # jekyll-seo-tag > real name
@@ -102,12 +78,6 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
 
 
 # 7. Site settings
