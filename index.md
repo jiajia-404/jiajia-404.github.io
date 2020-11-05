@@ -2,7 +2,7 @@
 title: 
 layout: page
 ---
-<p align="centre" style="height:30%;">
+<p>
     <img src="https://github.com/jiajia-404/jiajia-404.github.io/blob/master/images/profile.png">
 </p>
 <div style="margin: auto; width: 40%">
