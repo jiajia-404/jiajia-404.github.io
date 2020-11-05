@@ -102,7 +102,12 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
+      layout: single
       author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 
 
 # 7. Site settings
@@ -115,7 +120,6 @@ url: "https://github.com/jiajia-404" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jiajia-404"
 email: "jiamu.jiang@nottingham.ac.uk"
-author_profile: true
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
