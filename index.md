@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div style="margin: auto; width: 40%">
-  <img src="{{ site.url }}/images/profile.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
+  <img src="{{ site.url }}/images/profile.jpg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
 
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
     Jiamu Jiang
