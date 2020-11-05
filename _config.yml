@@ -42,8 +42,32 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username:  # jekyll-seo-tag > Owners twitter username
-author:  # jekyll-seo-tag > default author
-  avatar: "/images/profile.jpeg"
+author:
+  name             : "Adam Gajtkowki"
+  avatar           : "/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Portfolio"
+  location         : "Financial Times"
+  email            : "adam.gajtkowski@icloud.com"
+  links:
+    - label: "Email"
+      icon: "adam.gajtkowski@icloud.com"
+      # url: mailto:adam.gajtkowski@icloud.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "adam9601"
+      # url: "https://github.com/adam9601"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"  
+
 social: # jekyll-seo-tag > social overrides
   name: Jiamu Jiang # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
