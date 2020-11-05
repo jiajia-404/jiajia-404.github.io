@@ -1,7 +1,4 @@
 ---
-title: Publications
-layout: page
----
 
 #### [Electro-physiology models of cells with spherical geometry with non-conducting centre](https://github.com/vanrossumlab/jiamu_20) (in press)
 
