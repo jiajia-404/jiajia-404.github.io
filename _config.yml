@@ -102,6 +102,7 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
+      author_profile: true
 
 
 # 7. Site settings
