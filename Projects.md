@@ -1,6 +1,12 @@
 
-# Room Cleaning Robot Based on Deep Neural Network and Robot Operating System
+---
+title: Projects 
+layout: page
+---
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Bs99ExJiiw8)
+- Room Cleaning Robot Based on Deep Neural Network and Robot Operating System
+
+
+[![Watch the video](/images/sim1.png)](https://youtu.be/Bs99ExJiiw8)
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_5jTu8fjrgA)
 
