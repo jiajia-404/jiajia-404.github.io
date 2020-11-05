@@ -5,7 +5,7 @@ layout: page
 
 <div style="margin: auto; width: 40%">
   <p align="centre">
-    <img src="https://github.com/jiajia-404/jiajia-404.github.io/blob/master/images/profile.png" itemprop = "image">
+    <img src="/images/profile.png" itemprop = "image">
   </p>
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
     Jiamu Jiang
