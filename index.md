@@ -1,10 +1,9 @@
 ---
 title: 
 layout: page
-author_profile: true
 ---
 <p align="center">
-    <img src="https://github.com/jiajia-404/jiajia-404.github.io/blob/master/images/profile.png">
+    <img src="https://github.com/jiajia-404/jiajia-404.github.io/blob/master/images/bs.png">
 </p>
 <div style="margin: auto; width: 40%">
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
