@@ -21,4 +21,4 @@ layout: page
 <br style="line-height:10%;">
 I'm a PhD student in Computational Neuroscience at the University of Nottingham.
 
-Before my PhD, I studied Human and Biological Robotics at Imperial College.
+Before my PhD, I studied [Human and Biological Robotics](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/) at Imperial College and [Electronic and Computer Engineering](https://www.nottingham.ac.uk/ugstudy/course/Electronic-and-Computer-Engineering-BEng) at University of Nottingham.
