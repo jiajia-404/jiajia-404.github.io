@@ -6,6 +6,14 @@ layout: page
 <div style="margin: auto; width: 40%">  
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
     Jiamu Jiang
+    <div class="img-circular"></div>
+    .img-circular{
+ width: 200px;
+ height: 200px;
+ background-image: url('http://strawberry-fest.org/wp-content/uploads/2012/01/Coca-Cola-logo.jpg');
+ background-size: cover;
+ display: block;
+    }
 
   </p>
   <p style="text-align:center; margin:0%;">
