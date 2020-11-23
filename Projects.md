@@ -1,8 +1,4 @@
 ---
-title: Projects
-layout: page
----
-
 
 #### Room Cleaning Robot Based on Deep Neural Network [*(link)*](https://github.com/jiajia-404/TydingUpProject)
 
