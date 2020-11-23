@@ -1,4 +1,7 @@
 ---
+title: 
+layout: page
+---
 
 #### Room Cleaning Robot Based on Deep Neural Network 
 [*(code)*](https://github.com/jiajia-404/TydingUpProject)
@@ -29,13 +32,14 @@
 [*(code)*](https://github.com/jiajia-404/Self_driving_PiCar)
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
-
-![picar](/images/Picar.jpg) ![p1](/images/p1.png) ![p2](/images/p2.png)
+<p align="center">
+  <img align="middle" src="/images/Picar.jpg" alt="picar" width="400"/>
+</p>
+![p1](/images/p1.png) ![p2](/images/p2.png)
 
 ---
 #### A cute Pusheen cat chatbot based on Andriod 
 [*(code)*](https://github.com/jiajia-404/Mr.Meow)
-
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
 - Applied Simsim API, Google Firebase API and Andriod Speech to relize the voice and text conversation.
