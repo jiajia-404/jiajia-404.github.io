@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 <h4 style="text-align:center;">Jiamu Jiang</h4>
-<i style="text-align:center;">Jiamuj04@gmail.com</i>
+<small style="text-align:center;">Jiamuj04@gmail.com</small>
 &nbsp;
 
 ###### Education
