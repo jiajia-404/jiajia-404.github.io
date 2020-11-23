@@ -13,9 +13,10 @@ layout: page
 ###### Simulation 
 <br />
 {% include video.html id="Bs99ExJiiw8" %}
+<br />
 
 ###### Robot demonstration 
-<br />
+<br /> 
 {% include video.html id="_5jTu8fjrgA" %}
 
 ---
