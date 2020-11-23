@@ -3,7 +3,9 @@ title:
 layout: page
 ---
 <h4 style="text-align:center;"> Jiamu Jiang </h4>
-<small align="center"> Jiamuj04@gmail.com </small>
+<p>
+	<small align="center"> Jiamuj04@gmail.com </small>
+</p>
 
 &nbsp;
 
