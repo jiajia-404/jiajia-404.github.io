@@ -35,7 +35,9 @@ layout: page
 [*(code)*](https://github.com/jiajia-404/Self_driving_PiCar)
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
-<img align="middle" src="/images/Picar.jpg" alt="picar" width="400"/>
+<p align="center">
+  <img align="middle" src="/images/Picar.jpg" alt="picar" width="400"/>
+</p>
 ![p1](/images/p1.png) ![p2](/images/p2.png)
 
 ---
