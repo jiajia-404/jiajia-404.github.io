@@ -3,9 +3,9 @@ title:
 layout: page
 ---
 
-<div style="width: 40%">
-  <p align="centre">
-    <img src="/images/profile.png" itemprop = "image">
+<div style="margin: auto; width: 40%">
+  <!--p align="centre"-->
+  	<img src="/images/profile.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
   </p>
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
     Jiamu Jiang
