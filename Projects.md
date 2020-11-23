@@ -1,6 +1,7 @@
 ---
 
-#### Room Cleaning Robot Based on Deep Neural Network [*(link)*](https://github.com/jiajia-404/TydingUpProject)
+#### Room Cleaning Robot Based on Deep Neural Network 
+[*(link)*](https://github.com/jiajia-404/TydingUpProject)
 
 - Used Deep Neural Network and HSV colour detection into the Computer Vision system and achieved real-time Object detection and classification.
 
@@ -13,7 +14,8 @@
 [![Watch the video](/images/real1.png)](https://youtu.be/_5jTu8fjrgA)
 
 ---
-#### Python-based Numerical Techniques in Solving Black-Scholes equation [*(link)*](https://github.com/jiajia-404/JJM_Bachelor_FYP)
+#### Python-based Numerical Techniques in Solving Black-Scholes equation 
+[*(link)*](https://github.com/jiajia-404/JJM_Bachelor_FYP)
 - Resolved the Black-Scholes partial differential equation by applying Monte Carlo model and the Finite Difference Method (FDM).
 
 - Implemented Explicit, Implicit and Crank–Nicolson FDM algorithms with Python, applied Numpy to finish decompositions.
@@ -24,24 +26,26 @@
 </p>
 
 ---
-#### A Raspberry Pi and TensorFlow powered self-driving robotic car [*(link)*](https://github.com/jiajia-404/Self_driving_PiCar)
+#### A Raspberry Pi and TensorFlow powered self-driving robotic car 
+[*(link)*](https://github.com/jiajia-404/Self_driving_PiCar)
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
 
 <div class="row">
   <div class="column">
-    <img src="/images/Picar.jpg" alt="picar" style="height:100">
+    <img src="/images/Picar.jpg" alt="picar" style="width:100">
   </div>
   <div class="column">
-    <img src="/images/p1.png" alt="Forest" style="height:100">
+    <img src="/images/p1.png" alt="Forest" style="width:100">
   </div>
   <div class="column">
-    <img src="/images/p2.png" alt="Mountains" style="height:100">
+    <img src="/images/p2.png" alt="Mountains" style="width:100">
   </div>
 </div>
 
 ---
-#### A cute Pusheen cat chatbot based on Andriod [*(link)*](https://github.com/jiajia-404/Mr.Meow)
+#### A cute Pusheen cat chatbot based on Andriod 
+[*(link)*](https://github.com/jiajia-404/Mr.Meow)
 
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
