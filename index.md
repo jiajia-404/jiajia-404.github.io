@@ -5,9 +5,9 @@ layout: page
 
 <div style="margin: auto; width: 30%">
   	<img src="/images/profile.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
-  <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
+  <h4 style="text-align:center; margin-top:5%; margin-bottom:0%;">
     Jiamu Jiang
-  </p>
+  </h4>
   <p style="text-align:center; margin:0%;">
     <a href="">
       {% include icon.html id="email" title="jiamuj04@gmail.com" %}
