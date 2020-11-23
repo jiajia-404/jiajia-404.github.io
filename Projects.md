@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-#### Room Cleaning Robot Based on Deep Neural Network 
+##### Room Cleaning Robot Based on Deep Neural Network 
 [*(code)*](https://github.com/jiajia-404/TydingUpProject)
 
 - Used Deep Neural Network and HSV colour detection into the Computer Vision system and achieved real-time Object detection and classification.
@@ -20,7 +20,7 @@ layout: page
 {% include video.html id="_5jTu8fjrgA" %}
 
 ---
-#### Python-based Numerical Techniques in Solving Black-Scholes equation 
+##### Python-based Numerical Techniques in Solving Black-Scholes equation 
 [*(code)*](https://github.com/jiajia-404/JJM_Bachelor_FYP)
 - Resolved the Black-Scholes partial differential equation by applying Monte Carlo model and the Finite Difference Method (FDM).
 
@@ -32,7 +32,7 @@ layout: page
 </p>
 
 ---
-#### A Raspberry Pi and TensorFlow powered self-driving robotic car 
+##### A Raspberry Pi and TensorFlow powered self-driving robotic car 
 [*(code)*](https://github.com/jiajia-404/Self_driving_PiCar)
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
@@ -42,7 +42,7 @@ A robotic car who is able to navigate the lane autonomously by using deep convol
 &nbsp; &nbsp; &nbsp; &nbsp; ![p1](/images/p1.png) &nbsp; ![p2](/images/p2.png)
 
 ---
-#### A cute Pusheen cat chatbot based on Andriod 
+##### A cute Pusheen cat chatbot based on Andriod 
 [*(code)*](https://github.com/jiajia-404/Mr.Meow)
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
