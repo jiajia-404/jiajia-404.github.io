@@ -2,8 +2,7 @@
 title: 
 layout: page
 ---
-
-## ->Jiamu Jiang<-
+<h1 style="text-align:center;">Jiamu Jiang</h1>
 
 ##### Education
 
