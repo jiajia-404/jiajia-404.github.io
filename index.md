@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-<div style="margin: auto; width: 40%">
+<div style="width: 40%">
   <p align="centre">
     <img src="/images/profile.png" itemprop = "image">
   </p>
