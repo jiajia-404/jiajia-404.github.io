@@ -31,7 +31,17 @@ layout: page
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
 
-![Picar](/images/Picar.jpeg)
+<div class="row">
+  <div class="column">
+    <img src="/images/Picar.jpg" alt="picar" style="height:300">
+  </div>
+  <div class="column">
+    <img src="/images/p1.png" alt="Forest" style="height:300">
+  </div>
+  <div class="column">
+    <img src="/images/p2.png" alt="Mountains" style="height:300">
+  </div>
+</div>
 
 ---
 ### [A cute Pusheen cat chatbot based on Andriod](https://github.com/jiajia-404/Mr.Meow)
