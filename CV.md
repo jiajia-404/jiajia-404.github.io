@@ -13,3 +13,7 @@ layout: page
 ###### Award
 - Vice-Chancellor's Scholarship for Research Excellence, 2019, University of Nottingham
 - Postgraduate Studentship, 2019, University of Nottingham
+
+###### Licenses & certifications
+- Software Engineering Virtual Experience (JPMorgan Chase & Co.)	May 2020
+- Machine Learning with TensorFlow on Google Cloud Platform (Google Cloud Training)		Oct. 2018
