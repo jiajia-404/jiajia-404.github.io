@@ -33,13 +33,13 @@ A robotic car who is able to navigate the lane autonomously by using deep convol
 
 <div class="row">
   <div class="column">
-    <img src="/images/Picar.jpg" alt="picar" style="width:100">
+    <img src="/images/Picar.jpg" alt="picar" style="width:120">
   </div>
   <div class="column">
-    <img src="/images/p1.png" alt="Forest" style="width:100">
+    <img src="/images/p1.png" alt="Forest" style="width:120">
   </div>
   <div class="column">
-    <img src="/images/p2.png" alt="Mountains" style="width:100">
+    <img src="/images/p2.png" alt="Mountains" style="width:120">
   </div>
 </div>
 
