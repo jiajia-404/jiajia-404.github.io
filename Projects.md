@@ -23,7 +23,7 @@ layout: page
 
 - Analyzed the stability and convergency of the models, compared the resulting accuracy and computational cost of the FDM models against the Monte Carlo model.
 
-![Black-Scholes equation](/images/bs.png)
+![Black-Scholes equation](/images/bs.png =250x)
 
 ---
 ### [A Raspberry Pi and TensorFlow powered self-driving robotic car](https://github.com/jiajia-404/Self_driving_PiCar)
@@ -38,7 +38,7 @@ A robotic car who is able to navigate the lane autonomously by using deep convol
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
 - Applied Simsim API, Google Firebase API and Andriod Speech to relize the voice and text conversation.
-![Chatbot](/images/chat_page.jpg)
+![Chatbot](/images/chat_page.jpg =250x)
 
 
 
