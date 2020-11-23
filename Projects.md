@@ -1,21 +1,20 @@
 ---
 
 #### Room Cleaning Robot Based on Deep Neural Network 
-[*(link)*](https://github.com/jiajia-404/TydingUpProject)
+[*(code)*](https://github.com/jiajia-404/TydingUpProject)
 
 - Used Deep Neural Network and HSV colour detection into the Computer Vision system and achieved real-time Object detection and classification.
 
 - Achieved the distributed computing of the robot control system based on Robot Operating System, desiend the robot manipulation system includes the control and motion planning of the robot arm, gripper and mobile base.
 
-###### Demonstration Videos
-* Simulation
+###### Simulation 
 [![Watch the video](/images/sim1.png)](https://youtu.be/Bs99ExJiiw8)
-* Robot demonstration
+###### Robot demonstration 
 [![Watch the video](/images/real1.png)](https://youtu.be/_5jTu8fjrgA)
 
 ---
 #### Python-based Numerical Techniques in Solving Black-Scholes equation 
-[*(link)*](https://github.com/jiajia-404/JJM_Bachelor_FYP)
+[*(code)*](https://github.com/jiajia-404/JJM_Bachelor_FYP)
 - Resolved the Black-Scholes partial differential equation by applying Monte Carlo model and the Finite Difference Method (FDM).
 
 - Implemented Explicit, Implicit and Crank–Nicolson FDM algorithms with Python, applied Numpy to finish decompositions.
@@ -27,25 +26,15 @@
 
 ---
 #### A Raspberry Pi and TensorFlow powered self-driving robotic car 
-[*(link)*](https://github.com/jiajia-404/Self_driving_PiCar)
+[*(code)*](https://github.com/jiajia-404/Self_driving_PiCar)
 
 A robotic car who is able to navigate the lane autonomously by using deep convolutional neural networks (CNN), and detect various traffic signs and pedestrians on the road by Single Shot multibox Detector (SSD).
 
-<div class="row">
-  <div class="column">
-    <img src="/images/Picar.jpg" alt="picar" style="width:120">
-  </div>
-  <div class="column">
-    <img src="/images/p1.png" alt="Forest" style="width:120">
-  </div>
-  <div class="column">
-    <img src="/images/p2.png" alt="Mountains" style="width:120">
-  </div>
-</div>
+![picar](/images/Picar.jpg) ![p1](/images/p1.png) ![p2](/images/p2.png)
 
 ---
 #### A cute Pusheen cat chatbot based on Andriod 
-[*(link)*](https://github.com/jiajia-404/Mr.Meow)
+[*(code)*](https://github.com/jiajia-404/Mr.Meow)
 
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
