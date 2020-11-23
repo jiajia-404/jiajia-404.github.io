@@ -9,8 +9,8 @@ layout: page
     Jiamu Jiang
   </p>
   <p style="text-align:center; margin:0%;">
-    <a href="jiamuj04@gmail.com">
-      {% include icon.html id="email" title="email" %}
+    <a href="">
+      {% include icon.html id="email" title="jiamuj04@gmail.com" %}
     </a>
     &nbsp;
     <a href="https://github.com/jiajia-404">
