@@ -12,10 +12,8 @@ layout: page
 
 ###### Simulation 
 {% include video.html id="Bs99ExJiiw8" %}
-[![Watch the video](/images/sim1.png)](https://youtu.be/Bs99ExJiiw8)
 ###### Robot demonstration 
 {% include video.html id="_5jTu8fjrgA" %}
-[![Watch the video](/images/real1.png)](https://youtu.be/_5jTu8fjrgA)
 
 ---
 #### Python-based Numerical Techniques in Solving Black-Scholes equation 
