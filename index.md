@@ -9,7 +9,7 @@ layout: page
     Jiamu Jiang
   </h4>
   <p style="text-align:center; margin:0%;">
-    <a href=mailto:jiamuj04@gmail.com>
+    <a href="mailto:jiamuj04@gmail.com">
       {% include icon.html id="email" title="email" %}
     </a>
     &nbsp;
