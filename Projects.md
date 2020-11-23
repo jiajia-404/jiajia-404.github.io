@@ -22,9 +22,9 @@ layout: page
 - Implemented Explicit, Implicit and Crank–Nicolson FDM algorithms with Python, applied Numpy to finish decompositions.
 
 - Analyzed the stability and convergency of the models, compared the resulting accuracy and computational cost of the FDM models against the Monte Carlo model.
-
-<img align="middle" src="/images/bs.png" alt="BSE" width="200"/>
-
+<p align="center">
+  <img align="middle" src="/images/bs.png" alt="BSE" width="300"/>
+</p>
 
 ---
 ### [A Raspberry Pi and TensorFlow powered self-driving robotic car](https://github.com/jiajia-404/Self_driving_PiCar)
@@ -39,7 +39,10 @@ A robotic car who is able to navigate the lane autonomously by using deep convol
 - A cute chatbot based on Java and Android Studio, allows both voice and text input, which allows users to chat via text and voice messages and manage chat histories.
 
 - Applied Simsim API, Google Firebase API and Andriod Speech to relize the voice and text conversation.
-<img align="middle" src="/images/chat_page.jpg" alt="chatpage" width="200"/>
+<p align="center">
+  <img align="middle" src="/images/chat_page.jpg" alt="chatpage" width="400"/>
+</p>
+
 
 
 
