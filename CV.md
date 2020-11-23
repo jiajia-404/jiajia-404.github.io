@@ -5,7 +5,8 @@ layout: page
 <div>
   <h5 style="text-align:center; margin-bottom:0%;">Jiamu Jiang</h5>
   <p style="text-align:center;">
-    <small><i> jiamuj04@gmail.com </i></small>
+  	<a href="mailto:jiamuj04@gmail.com">
+  		<small><i> jiamuj04@gmail.com </i></small> </a>    
   </p>
 </div>
 

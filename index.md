@@ -27,5 +27,3 @@ layout: page
 I'm a PhD student in Computational Neuroscience at the University of Nottingham. My research interests are machine learning, electro-physiology and robotics, I'm currently doing research about energy-dependent reinforcement learning.
 
 Before my PhD, I studied [Human and Biological Robotics](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/) at Imperial College and [Electronic and Computer Engineering](https://www.nottingham.ac.uk/ugstudy/course/Electronic-and-Computer-Engineering-BEng) at University of Nottingham.
-
-<a href=mailto:<nowiki>agentavery@sample.com?subject="subject text">
