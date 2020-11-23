@@ -1,4 +1,8 @@
-#### Jiamu Jiang
+---
+title: Jiamu Jiang
+layout: page
+---
+
 ##### Education
 
 - PhD Computational Neuroscience (University of Nottingham)   Oct. 2019 - Present
