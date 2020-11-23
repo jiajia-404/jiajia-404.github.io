@@ -3,7 +3,7 @@ title:
 layout: page
 ---
 
-<div style="margin: auto; width: 35%">
+<div style="margin: auto; width: 30%">
   	<img src="/images/profile.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 160%;">
     Jiamu Jiang
