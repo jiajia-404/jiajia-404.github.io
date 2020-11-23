@@ -1,7 +1,9 @@
 ---
-title: Jiamu Jiang
+title: 
 layout: page
 ---
+
+## ->Jiamu Jiang<-
 
 ##### Education
 
@@ -12,5 +14,6 @@ layout: page
 ##### Award
 - Vice-Chancellor's Scholarship for Research Excellence, 2019, University of Nottingham
 - Postgraduate Studentship, 2019, University of Nottingham
+<!--
 - Champion of the “Challenge Cup” Technology and Business National Competition, University of Nottingham Ningbo China division, 2016. (Award-winning project: Wearable PM2.5 Detector Based on an AVR Microcontroller)
-
+-->
