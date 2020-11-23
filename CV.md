@@ -2,12 +2,12 @@
 title: 
 layout: page
 ---
-<h4 style="text-align:center;"> Jiamu Jiang </h4>
-<p>
-	<small align="center"> Jiamuj04@gmail.com </small>
-</p>
-
-&nbsp;
+<div>
+  <h4 style="text-align:center; margin-bottom:0%;">Jiamu Jiang</h4>
+  <p style="text-align:center;">
+    <small><i> jiamuj04@gmail.com </i></small>
+  </p>
+</div>
 
 ###### Education
 
