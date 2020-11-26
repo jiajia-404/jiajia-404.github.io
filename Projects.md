@@ -39,7 +39,7 @@ A robotic car who is able to navigate the lane autonomously by using deep convol
 <p align="center">
   <img align="middle" src="/images/Picar.jpg" alt="picar" width="400"/>
 </p>
-&nbsp; ![p1](/images/p1.png) &nbsp; ![p2](/images/p2.png)
+![p1](/images/p1.png) &nbsp; ![p2](/images/p2.png)
 
 ---
 ##### A cute Pusheen cat chatbot based on Andriod 
