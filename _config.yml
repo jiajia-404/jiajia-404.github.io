@@ -85,11 +85,11 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Jiamu Jiang" # Site name or title, also used in jekyll-seo-tag
 logo:  # Site logo, also used in jekyll-seo-tag
-description: "Computational Neuroscience" # Site description and default description, also used in jekyll-seo-tag
+description: "Personal Website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://github.com/jiajia-404" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jiajia-404"
-email: "jiamu.jiang@nottingham.ac.uk"
+email: "jiamuj04@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
