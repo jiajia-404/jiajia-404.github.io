@@ -11,7 +11,7 @@ layout: page
 ###### Demo 
 
 <p align="center">
-  <img align="middle" src="/images/llm_demo1.png" alt="BSE" width="400"/>
+  <img align="middle" src="/images/llm_demo1.png" alt="BSE" width="500"/>
 </p>
 
 ---
