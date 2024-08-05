@@ -3,6 +3,11 @@ title:
 layout: page
 ---
 
+##### Self-Introducing Chatbot using RAG with Local LLMs  
+[*(access code here)*](https://github.com/jiajia-404/rag-llm)
+-	Leveraged LLaMA3 with RAG: Implemented the LLaMA3 model locally, using RAG to integrate PDF data (CV and personal statement), for personalized responses.
+-	Developed User Interface: Created an interactive web page allowing users to input questions and receive real-time responses.
+
 ##### Room Cleaning Robot Based on Deep Neural Network 
 [*(access code here)*](https://github.com/jiajia-404/TydingUpProject)
 
