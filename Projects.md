@@ -14,6 +14,7 @@ layout: page
   <img align="middle" src="/images/llm_demo1.png" alt="BSE" width="400"/>
 </p>
 
+---
 ##### Room Cleaning Robot Based on Deep Neural Network 
 [*(access code here)*](https://github.com/jiajia-404/TydingUpProject)
 
