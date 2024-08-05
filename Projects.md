@@ -8,6 +8,12 @@ layout: page
 -	Leveraged LLaMA3 with RAG: Implemented the LLaMA3 model locally, using RAG to integrate PDF data (CV and personal statement), for personalized responses.
 -	Developed User Interface: Created an interactive web page allowing users to input questions and receive real-time responses.
 
+###### Demo 
+
+<p align="center">
+  <img align="middle" src="/images/llm_demo1.png" alt="BSE" width="400"/>
+</p>
+
 ##### Room Cleaning Robot Based on Deep Neural Network 
 [*(access code here)*](https://github.com/jiajia-404/TydingUpProject)
 
