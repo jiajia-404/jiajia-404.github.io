@@ -20,7 +20,7 @@ layout: page
 ##### Brain-based Reinforcement Learning for Decision Making
 *(Code pending)*
 
-This is my PhD research, focuses on using a Multi-Armed Bandit (MAB) model to complete three tasks inspired by insect brains (for detailed insights and findings, please refer to my publications):
+This is my PhD research, focuses on using a Multi-Armed Bandit (MAB) model to complete three tasks inspired by insect brains. For detailed insights and findings, please refer to my publications.
 
     - Identify the optimal learning strategy that enhances insect agent survival in hazardous environments with varying memory types.
 
