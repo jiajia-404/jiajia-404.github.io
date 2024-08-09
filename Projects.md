@@ -22,11 +22,11 @@ layout: page
 
 This is my PhD research, focuses on using a Multi-Armed Bandit (MAB) model to complete three tasks inspired by insect brains. For detailed insights and findings, please refer to my publications.
 
-    - Identify the optimal learning strategy that enhances insect agent survival in hazardous environments with varying memory types.
+  - Identify the optimal learning strategy that enhances insect agent survival in hazardous environments with varying memory types.
 
-    - Evaluate the effectiveness of different synaptic plasticity forms during learning.
+  - Evaluate the effectiveness of different synaptic plasticity forms during learning.
 
-    - Determine the most efficient decision-making process for foraging using a contextual bandit approach.
+  - Determine the most efficient decision-making process for foraging using a contextual bandit approach.
 
 ---
 ##### Room Cleaning Robot Based on Deep Neural Network 
