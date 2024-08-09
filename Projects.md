@@ -5,7 +5,9 @@ layout: page
 
 ##### Self-Introducing Chatbot using RAG with Local LLMs  
 [*(access code here)*](https://github.com/jiajia-404/rag-llm)
+
 -	Leveraged LLaMA3 with RAG: Implemented the LLaMA3 model locally, using RAG to integrate PDF data (CV and personal statement), for personalized responses.
+
 -	Developed User Interface: Created an interactive web page allowing users to input questions and receive real-time responses.
 
 ###### Demo 
@@ -19,8 +21,11 @@ layout: page
 *(Code pending)*
 
 This is my PhD research, focuses on using a Multi-Armed Bandit (MAB) model to complete three tasks inspired by insect brains:
+
 - Identify the optimal learning strategy that enhances insect agent survival in hazardous environments with varying memory types.
+
 - Evaluate the effectiveness of different synaptic plasticity forms during learning.
+
 - Determine the most efficient decision-making process for foraging using a contextual bandit approach.
 
 ---
