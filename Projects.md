@@ -15,6 +15,14 @@ layout: page
 </p>
 
 ---
+##### Brain-based Reinforcement Learning for Decision Making
+*(Code updates pending)*
+This is my PhD research, focuses on using a Multi-Armed Bandit (MAB) model to complete three tasks inspired by insect brains:
+- Identify the optimal learning strategy that enhances insect agent survival in hazardous environments with varying memory types.
+- Evaluate the effectiveness of different synaptic plasticity forms during learning.
+- Determine the most efficient decision-making process for foraging using a contextual bandit approach.
+
+---
 ##### Room Cleaning Robot Based on Deep Neural Network 
 [*(access code here)*](https://github.com/jiajia-404/TydingUpProject)
 
