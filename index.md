@@ -24,7 +24,7 @@ layout: page
 </div>
 <br style="line-height:10%;">
 
-I'm a PhD in Computational Neuroscience specializing in brain-based reinforcement learning :brain:. I am leveraging my expertise as a Data Scientist :bar_chart:, where I apply advanced data analysis and machine learning techniques to solve complex problems. 
+I'm a PhD in Computational Neuroscience specializing in brain-based reinforcement learning :brain:. I am leveraging my expertise as a Machine Learning Engineer :bar_chart:, where I apply machine learning and data analysis techniques to solve problems. 
 
 Before my PhD, I studied [Human and Biological Robotics](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/) :robot: at Imperial College and [Electronic and Computer Engineering](https://www.nottingham.ac.uk/ugstudy/course/Electronic-and-Computer-Engineering-BEng) :computer: at University of Nottingham.
 
