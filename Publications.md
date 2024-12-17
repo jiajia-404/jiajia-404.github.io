@@ -2,7 +2,7 @@
 title: 
 layout: page
 ---
-Jiang J, Foyard E, van Rossum MCW. Reinforcement learning when your life depends on it: a neuro-economic theory of learning. Under review, preprint available at [bioRxiv, 2024.05. 08.593165](https://www.biorxiv.org/content/10.1101/2024.05.08.593165v1.full.pdf).
+Jiang J, Foyard E, van Rossum MCW. Reinforcement learning when your life depends on it: a neuro-economic theory of learning. PLOS Computational Biology 20 (10), e1012554.
 
 Girard M, Jiang J, van Rossum MCW. Estimating the energy requirements for long term memory formation. arXiv preprint [arXiv:2301.09565](https://arxiv.org/pdf/2301.09565). (2023).
 
