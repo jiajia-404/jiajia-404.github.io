@@ -12,7 +12,7 @@ layout: page
 
 ###### Education
 
-- PhD Computational Neuroscience (University of Nottingham)   Oct. 2019 - Present
+- PhD Computational Neuroscience (University of Nottingham)   Oct. 2019 - 2024
 - MSc Human and Biological Robotics (Imperial College London)     Sept. 2018 – Sept. 2019
 - BEng Electronic and Computer Engineering (University of Nottingham)   Aug. 2014 - July 2018
 
